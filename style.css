@@ -1,0 +1,10 @@
+body {
+    background: url(imagens/imageAtv.jfif) no-repeat top center/cover;
+}
+#Title{
+    color: white;
+    background-color: red;
+    border-style: solid;
+    border-width: 2px;
+    border-color: green;
+}
