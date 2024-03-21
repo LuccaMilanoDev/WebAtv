@@ -10,3 +10,10 @@
     padding: 25px;
     margin: auto;
 }
+#Paragrafo{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#HyperLinks{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
