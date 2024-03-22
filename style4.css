@@ -1,0 +1,19 @@
+body{
+    background-color: green;
+    margin: 0;
+}
+.contain{
+    text-align: center;
+    display: flex
+}
+.contain div{
+    padding: 10px;
+}
+.contain footer{
+    background-color: gray;
+    padding: 70px;
+    text-align: left;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
